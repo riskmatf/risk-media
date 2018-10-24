@@ -1,5 +1,7 @@
 # Medijski sadržaj organizacije RISK
 
+<img src="logo/v2/risk.png">
+
 ### Prezentacija
 U direktorijumu `prezentacija` možete pronaći prezentaciju organizacije RISK 
 kao i spisak prethodnih okupljanja.
