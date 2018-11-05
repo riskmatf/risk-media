@@ -11,6 +11,7 @@ author: Matematički fakultet, Univerzitet u Beogradu
 \end{center}
 - Veb strana: `risk.matf.bg.ac.rs`
 - Fejsbuk grupa: `facebook.com/groups/1192849077458638`
+- Github organizacija: `github.com/riskmatf`
 
 ## Osnivanje
 - Osnovan u decembru školske 2015/2016 godine na sednici studentskog parlamenta
@@ -33,7 +34,7 @@ author: Matematički fakultet, Univerzitet u Beogradu
 - Održano preko 20 okupljanja
 - Okupljanja održavana na 1-3 nedelje
 - Okupljanja posećivali pretežno studenti MATF-a ali i studenti ETF-a, RAF-a i FON-a
-- Osnovana fejsbuk stranica sa preko 400 članova (444)
+- Osnovana fejsbuk stranica sa preko 600 članova (610)
 
 # Održana okupljanja
 
@@ -129,6 +130,26 @@ author: Matematički fakultet, Univerzitet u Beogradu
 - Kod: `github.com/riskmatf/unity3d`
 - Školska godina: 2017/2018
 
+## Git, GitHub i zajednica otvorenog koda
+\begin{center}
+    \includegraphics[scale=0.7]{./images/gitgithub.png}
+\end{center}
+- Predavač: Stevan Nestorović
+- Predavanje posvećeno alatu `Git`, servisu `GitHub` i zajednici otvorenog koda
+- Kod: `github.com/riskmatf/risk-meetup-11-git`
+- Školska godina: 2018/2019
+
+
+## Uvod u Python, Jupyter Notebook i korisne biblioteke
+\begin{center}
+    \includegraphics[scale=0.1]{./images/python.png}
+\end{center}
+- Predavač: Vuk Novaković
+- Predavanje posvećeno jeziku `Python`, okruženju `Jupyter Notebook` i nekim korisnim bibliotekama
+- Kod: `github.com/riskmatf/risk-meetup-12-python`
+- Školska godina: 2018/2019
+
+
 # Slike sa nekih okupljanja
 ## Bash skripting
 \begin{center}
@@ -174,9 +195,20 @@ author: Matematički fakultet, Univerzitet u Beogradu
 \begin{center}
     \includegraphics[scale=0.31]{./images/unity02}
 \end{center}
+
 ## Unity
 \begin{center}
     \includegraphics[scale=0.31]{./images/unity03}
+\end{center}
+
+## Uvod u Python, Jupyter Notebook i korisne biblioteke
+\begin{center}
+    \includegraphics[width=\textwidth]{./images/meetup12-py.jpg}
+\end{center}
+
+## Uvod u Python, Jupyter Notebook i korisne biblioteke
+\begin{center}
+    \includegraphics[width=\textwidth]{./images/meetup12-py02.jpg}
 \end{center}
 
 # Dalji planovi
