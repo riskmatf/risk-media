@@ -2,6 +2,8 @@
 title: 'Računarstvo i informatika - studentski klub (RISK)'
 aspectratio: 169
 author: Matematički fakultet, Univerzitet u Beogradu
+urlcolor: cyan
+colorlinks: true
 ---
 # Uvod
 
@@ -9,20 +11,27 @@ author: Matematički fakultet, Univerzitet u Beogradu
 \begin{center}
     \includegraphics[scale=0.5]{./images/risk}
 \end{center}
-- Veb strana: `risk.matf.bg.ac.rs`
-- Fejsbuk grupa: `facebook.com/groups/1192849077458638`
-- Github organizacija: `github.com/riskmatf`
+- Mejl: `risk@alas.matf.bg.ac.rs`
+- Veb strana: [link](risk.matf.bg.ac.rs)
+- Fejsbuk grupa: [link](https://www.facebook.com/groups/1192849077458638/?ref=bookmarks)
+- Github organizacija: [link](https://www.github.com/riskmatf)
+- Instagram: [link](https://www.instagram.com/riskmatf)
 
 ## Osnivanje
 - Osnovan u decembru školske 2015/2016 godine na sednici studentskog parlamenta
 - Osnivač: Nemanja Mićović\footnote{nemanja\_micovic@matf.bg.ac.rs}, tadašnji student 3. godine smera Informatika
 
-## Organizatori
+## Članovi
 - Nemanja Mićović - `nemanja_micovic@matf.bg.ac.rs`
 - Peđa Trifunov - `trifunov.pedja@gmail.com`
 - Stevan Nestorović - `stevannestorovic@hotmail.com`
 - Vuk Novaković - `vnovakovic96@gmail.com`
-- Stefan Pantić - `stefanpantic13@gmail.com`
+- Aleksandar Stefanović - `stefanoviczaleksandar@gmail.com`
+- Olivera Popović (+ društvene mreže)- `o.popovic@outlook.com `
+- Filip Filipović (+ video) - `ffilipovicc98@gmail.com `
+- Konstantin Klima - `konstantin.klima@live.com`
+- Ana Bolović - `anabolovic98@gmail.com `
+- Šerer Marko (+ dizajn) - `sherer.marko@gmail.com `
 
 ## Cilj organizacije
 - Podsticaj studenata na vannastavne aktivnosti
@@ -33,7 +42,7 @@ author: Matematički fakultet, Univerzitet u Beogradu
 ## Dosadašnji rad
 - Održano preko 20 okupljanja
 - Okupljanja održavana na 1-3 nedelje
-- Okupljanja posećivali pretežno studenti MATF-a ali i studenti ETF-a, RAF-a i FON-a
+- Okupljanja posećivali pretežno studenti MATF-a ali i studenti ETF-a, RAF-a i FON-a kao i drugih fakulteta
 - Osnovana fejsbuk stranica sa preko 600 članova (610)
 
 # Održana okupljanja
