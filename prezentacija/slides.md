@@ -12,10 +12,10 @@ colorlinks: true
     \includegraphics[scale=0.5]{./images/risk}
 \end{center}
 - Mejl: `risk@alas.matf.bg.ac.rs`
-- Veb strana: [link](risk.matf.bg.ac.rs)
-- Fejsbuk grupa: [link](https://www.facebook.com/groups/1192849077458638/?ref=bookmarks)
-- Github organizacija: [link](https://www.github.com/riskmatf)
-- Instagram: [link](https://www.instagram.com/riskmatf)
+- Veb strana: [ovde](risk.matf.bg.ac.rs)
+- Fejsbuk grupa: [ovde](https://www.facebook.com/groups/1192849077458638/?ref=bookmarks)
+- Github organizacija - `riskmatf`: [ovde](https://www.github.com/riskmatf)
+- Instagram - `riskmatf`: [ovde](https://www.instagram.com/riskmatf)
 
 ## Osnivanje
 - Osnovan u decembru školske 2015/2016 godine na sednici studentskog parlamenta
@@ -32,6 +32,11 @@ colorlinks: true
 - Konstantin Klima - `konstantin.klima@live.com`
 - Ana Bolović - `anabolovic98@gmail.com `
 - Šerer Marko (+ dizajn) - `sherer.marko@gmail.com `
+
+## Članovi
+\begin{center}
+    \includegraphics[width=\textwidth]{./images/organizacija}
+\end{center}
 
 ## Cilj organizacije
 - Podsticaj studenata na vannastavne aktivnosti
@@ -158,6 +163,35 @@ colorlinks: true
 - Kod: `github.com/riskmatf/risk-meetup-12-python`
 - Školska godina: 2018/2019
 
+## Testiranje u jeziku Python, sistem Selenium i POM
+\begin{center}
+    \includegraphics[height=\textheight]{./images/meetup13}
+\end{center}
+
+## Moderno Android programiranje
+\begin{center}
+    \includegraphics[height=\textheight]{./images/meetup14}
+\end{center}
+
+## RSA asimetrična kriptografija i primene
+\begin{center}
+    \includegraphics[height=\textheight]{./images/meetup15}
+\end{center}
+
+## Uvod u veb radne okvire kroz Laravel i Django
+\begin{center}
+    \includegraphics[height=\textheight]{./images/meetup16}
+\end{center}
+
+## Programski jezik C - Savremeni pristup
+\begin{center}
+    \includegraphics[height=\textheight]{./images/meetup17}
+\end{center}
+
+## Uvod u Amazon veb servise (AWS)
+\begin{center}
+    \includegraphics[height=\textheight]{./images/meetup18}
+\end{center}
 
 # Slike sa nekih okupljanja
 ## Bash skripting
