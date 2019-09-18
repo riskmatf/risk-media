@@ -12,10 +12,10 @@ colorlinks: true
     \includegraphics[scale=0.5]{./images/risk}
 \end{center}
 - Mejl: `risk@alas.matf.bg.ac.rs`
-- Veb strana: [ovde](risk.matf.bg.ac.rs)
+- Veb strana: [risk.matf.bg.ac.rs](risk.matf.bg.ac.rs)
 - Fejsbuk grupa: [ovde](https://www.facebook.com/groups/1192849077458638/?ref=bookmarks)
-- Github organizacija - `riskmatf`: [ovde](https://www.github.com/riskmatf)
-- Instagram - `riskmatf`: [ovde](https://www.instagram.com/riskmatf)
+- Github organizacija - `github.com/riskmatf`: [ovde](https://www.github.com/riskmatf)
+- Instagram - `riskmatf`: [instagram.com/riskmatf](https://www.instagram.com/riskmatf)
 
 ## Osnivanje
 - Osnovan u decembru školske 2015/2016 godine na sednici studentskog parlamenta
@@ -38,6 +38,11 @@ colorlinks: true
     \includegraphics[width=\textwidth]{./images/organizacija}
 \end{center}
 
+## $\frac{7}{10}$ RISK tima
+\begin{center}
+    \includegraphics[width=\textwidth]{./images/riskteam}
+\end{center}
+
 ## Cilj organizacije
 - Podsticaj studenata na vannastavne aktivnosti
 - Edukacija studenata iz oblasti računarstva
@@ -48,7 +53,8 @@ colorlinks: true
 - Održano preko 20 okupljanja
 - Okupljanja održavana na 1-3 nedelje
 - Okupljanja posećivali pretežno studenti MATF-a ali i studenti ETF-a, RAF-a i FON-a kao i drugih fakulteta
-- Osnovana fejsbuk stranica sa preko 600 članova (610)
+- Osnovana fejsbuk stranica koja trenutno ima skoro 700 članova (682)
+- Projektovana i isporučena platforma Tjuring za prijavu kvarova rada računara
 
 # Održana okupljanja
 
@@ -254,12 +260,37 @@ colorlinks: true
     \includegraphics[width=\textwidth]{./images/meetup12-py02.jpg}
 \end{center}
 
+## AWS
+\begin{center}
+    \includegraphics[width=\textwidth]{./images/aws01.jpg}
+\end{center}
+
+## AWS
+\begin{center}
+    \includegraphics[width=\textwidth]{./images/aws02.jpg}
+\end{center}
+
+## Kako da učestvujete i podržite inicijativu?
+- Posetite nas na okupljanjima
+- Pišite za naš blog
+- Dajte nam podršku na društvenim mrežama
+- Održite predavanje?
+
 # Dalji planovi
+
 ## Dalji planovi
 - Saradnja sa Katedrom za računarstvo na Matematičkom fakultetu
 - Saradnja sa industrijom
 - Dobijanje termina u rasporedu časova
 - Promocija organizacije
 - Nastavak održavanja redovnih okupljanja
+
+## Neka od planiranih okupljanja za 2018/2019
+- Razvoj 2d igara u okruženju `Unity`
+- Testiranje bezbednosti softvera sistemom `Kali Linux`
+- Duboko učenje kroz biblioteku `PyTorch`
+- Komunikacione veštine i Vaš CV
+- Veb programiranje kroz okruženje `Django` i jezik `Python`
+- I mnoga druga...
 
 # Pitanja?
