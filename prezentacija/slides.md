@@ -17,6 +17,11 @@ colorlinks: true
 - Github organizacija - `github.com/riskmatf`: [ovde](https://www.github.com/riskmatf)
 - Instagram - `riskmatf`: [instagram.com/riskmatf](https://www.instagram.com/riskmatf)
 
+## RISK
+\begin{center}
+    \includegraphics[width=\textwidth,height=0.9\textheight,keepaspectratio]{./images/poster-wide}
+\end{center}
+
 ## Osnivanje
 - Osnovan u decembru školske 2015/2016 godine na sednici studentskog parlamenta
 - Osnivač: Nemanja Mićović\footnote{nemanja\_micovic@matf.bg.ac.rs}, tadašnji student 3. godine smera Informatika
