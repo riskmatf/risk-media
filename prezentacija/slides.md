@@ -48,6 +48,21 @@ colorlinks: true
     \includegraphics[width=\textwidth]{./images/riskteam}
 \end{center}
 
+## RISK na konferenciji PyCon Balkan (2019)
+\begin{center}
+    \includegraphics[scale=0.2]{./images/2019-risk-pycon}
+\end{center}
+
+## RISK na konferenciji Data Science 5.0 (2019)
+\begin{center}
+    \includegraphics[scale=0.2]{./images/2019-risk-ds5}
+\end{center}
+
+## RISK na konferenciji Data Science 5.0 (2019)
+\begin{center}
+    \includegraphics[scale=0.2]{./images/2019-ds5-risk-2}
+\end{center}
+
 ## Cilj organizacije
 - Podsticaj studenata na vannastavne aktivnosti
 - Edukacija studenata iz oblasti računarstva
@@ -202,6 +217,16 @@ colorlinks: true
 ## Uvod u Amazon veb servise (AWS)
 \begin{center}
     \includegraphics[height=\textheight]{./images/meetup18}
+\end{center}
+
+## Uvod u duboko učenje i PyTorch
+\begin{center}
+    \includegraphics[height=\textheight]{./images/meetup19.png}
+\end{center}
+
+## Uvod u Python, Jupyter Notebook i korisne biblioteke
+\begin{center}
+    \includegraphics[height=\textheight]{./images/meetup20.png}
 \end{center}
 
 # Slike sa nekih okupljanja
